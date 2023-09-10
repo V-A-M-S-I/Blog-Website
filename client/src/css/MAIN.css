@@ -1,0 +1,70 @@
+.outlock{
+    background-color:rgba(206, 23, 69, 0.959);
+    text-decoration: none;
+    padding: 15px;
+    height: 100vh;
+    width: auto;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    background-image: url(https://cdn.pixabay.com/photo/2020/04/03/06/35/work-4997565_1280.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+ul{
+    display: flex;
+    gap: 85rem;
+}
+
+li{
+    list-style: none;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    font-weight: 700; 
+}
+
+.vam{
+    font-size: 30px;
+    font-weight: 700; 
+    color: rgb(55, 151, 87);
+}
+li a{
+    list-style: none;
+    color: white;
+    font-size: large;
+    font-weight: 700;
+    
+}
+
+h2{
+    font-size: 42px;
+    color: rgb(42, 168, 241);
+}
+h4{
+    font-size: 25px;
+    color:  rgb(155, 61, 231);
+    
+}
+
+.vamsi{
+    padding: 13px;
+    background-color: rgba(61, 168, 159, 0.959);
+    border-radius: 5px;
+    color:white;
+    font-size: 15px;
+    font-weight: 700;
+    margin-right: 75px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 7px #888888;
+}
+
+.si:hover{
+    border: 1px solid;
+    border-radius: 7px;
+    padding: 10px;  
+    box-shadow: 5px 7px #f1e645;
+    background-color: rgb(5, 250, 168);
+}
+

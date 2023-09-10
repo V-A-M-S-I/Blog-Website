@@ -19,7 +19,7 @@ function Navbar()
                 </div>
                 
                     <ul className={menuopen ? "open": ""}>
-                        <li>
+                        {/* <li>
                             <Link to='/signup'>Sign up</Link>
                         </li>
                         <li>
@@ -27,7 +27,7 @@ function Navbar()
                         </li>
                         <li>
                             <Link to='/#'>About Us</Link>
-                        </li>
+                        </li> */}
                     </ul>
                     
              </nav>
